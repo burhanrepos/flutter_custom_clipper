@@ -1,0 +1,4 @@
+#Thu Oct 20 14:35:36 PKT 2022
+base.0=/Users/burhanshaheen/Documents/burhan/FlutterProject/flutter_customer_clipper/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
